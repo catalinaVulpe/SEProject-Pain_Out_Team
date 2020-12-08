@@ -1,1 +1,2 @@
 # SEProject-Pain_Out_Team
+# VR application for burn victims treatment which will imply an immersive application/game that will transpose the user into a virtual reality that has the purpose to eliminate user's pain for certain periods of time. The app will help patients get through difficult and painful treatments by captivating their attention using a small game that will take their minds away from the the pain they are actually feeling. 
